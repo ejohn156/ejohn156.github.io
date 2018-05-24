@@ -1,0 +1,188 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    border-bottom: 1px solid #C0C0C0;
+    background-color: white;
+    position: top;
+    
+}
+li a {
+    display: block;
+    width: 20px;
+    color: grey;
+    text-align: bottom;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.nav_bar{
+    margin-right: 150px;
+}
+.name{width: 95px;}
+li
+{
+    float: right;
+}
+#navbar
+{
+    width: 100%;
+    margin: 0 auto;
+    position: top;
+}
+.name
+{
+    background-color: rgb(6, 145, 180);
+    margin-left: 200px;
+    font-size: 18px;
+    font-style: bold;
+    color: white;
+}
+.body
+{
+    background-color:lightgrey;
+    padding-top: 20px;
+    padding-bottom: 180px;
+}
+.content
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    
+}
+.heading
+{
+    margin-bottom: 10px;
+    border-bottom: 1px solid silver;
+    color: rgb(27, 82, 116);
+}
+footer
+{
+    background-color: rgb(59, 62, 63);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    margin-top: -50px;
+    height: 50px;
+    border-top: 5px solid rgb(6, 145, 180);
+    
+}
+.msg
+{
+    height: 200px;
+    width: 800px;
+}
+#sub
+{
+    background-color: rgb(6, 145, 180);
+    margin-bottom: 20px;
+    height: 30px;
+    width: 100px;
+}
+footer p
+{
+    text-align: center;
+}
+.clearfix::after 
+{
+    content: "";
+    display: block;
+    clear: both;
+}
+#cont
+{
+    padding-bottom: 0px;
+}
+.pic_col1
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    
+}
+.pic_col2
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    margin-left: 350px;
+    
+}
+.content_port
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    height: 850px;
+}
+.pic1
+{
+    margin-bottom: 40px;
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+.content_about
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    height: 450px;
+    
+}
+#pic
+{
+    float: left;
+    position: absolute;
+    width: 30%;
+    margin-top: 20px;
+}
+#info
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    margin-left: 18%;
+}
+#info1
+{
+    float: left;
+    position: absolute;
+    bottom: 0;
+    width: 60%;
+    margin-bottom: 115px;
+}
+.foot
+{
+    color: white;
+}
+.pic
+{
+    height: 190px;
+    width: 215px;
+}
+
+
+
