@@ -1,0 +1,78 @@
+aside {
+    float: right;
+    background-color: white;
+    width: 38%;
+    height: 320px;
+}
+header
+{
+    background-color: white;
+    height: 60px;  
+}
+nav
+{
+    background-color: white;
+    height: 60px;
+}
+section
+{
+    float: left;
+    background-color: white;   
+    width: 60%; 
+    height: 320px;
+}
+section header 
+{
+    background-color: gray
+}
+footer
+{
+    
+    position:absolute;
+    bottom:40px;
+    width: 93%;
+    background-color: white;
+    
+}
+h1{text-align: center}
+body{background-color: gray}
+article
+{
+    background-color: gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 200px;
+}
+article div
+{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 40px;
+    text-align: center;
+}
+article p
+{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+html 
+{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+header h1
+{
+    padding-top: 10px;
+}
+nav h1{padding-top: 15px;}
+article header h1
+{
+    font-size: 25px;
+    padding-top: 25px;
+}
